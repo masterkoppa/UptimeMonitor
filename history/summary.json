@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/masterkoppa.smugmug.com",
     "slug": "smug-mug-site",
     "status": "up",
-    "uptime": "4.66%",
-    "uptimeDay": "4.66%",
-    "uptimeWeek": "4.66%",
-    "uptimeMonth": "4.66%",
-    "uptimeYear": "4.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1197,
     "timeDay": 1197,
     "timeWeek": 1197,
     "timeMonth": 1197,
     "timeYear": 1197,
-    "dailyMinutesDown": {
-      "2020-12-28": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personsal Site",
@@ -115,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/codename-nightowl.com",
     "slug": "night-owl",
     "status": "up",
-    "uptime": "3.00%",
-    "uptimeDay": "3.00%",
-    "uptimeWeek": "3.00%",
-    "uptimeMonth": "3.00%",
-    "uptimeYear": "3.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 320,
     "timeWeek": 320,
     "timeMonth": 320,
     "timeYear": 320,
-    "dailyMinutesDown": {
-      "2020-12-28": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
