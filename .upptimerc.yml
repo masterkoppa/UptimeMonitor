@@ -6,20 +6,24 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: SmugMug Site
+    url: https://masterkoppa.aruiz.io
+  - name: Personsal Site
+    url: https://aruiz.io
+  - name: Personal Site (www)
+    url: https://www.aruiz.io/blog
+  - name: Personal Site (alt)
+    url: https://andresjruiz.com
+  - name: Beyond the Tales
+    url: https://beyondthetales.com
+  - name: NightOwl
+    url: https://www.codenamenightowl.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /uptimemonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
