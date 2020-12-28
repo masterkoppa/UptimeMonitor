@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: SmugMug Site
-    url: https://masterkoppa.aruiz.io
+    url: https://masterkoppa.smugmug.com
   - name: Personsal Site
     url: https://aruiz.io
   - name: Personal Site (www)
@@ -17,13 +17,13 @@ sites:
   - name: Beyond the Tales
     url: https://beyondthetales.com
   - name: NightOwl
-    url: https://www.codenamenightowl.com
+    url: https://codename-nightowl.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptimemonitor
+  baseUrl: /UptimeMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Personal Health Dashboard
   introTitle: "Personal Health Dashboard, powered by [**Upptime**](https://github.com/upptime/upptime)"
