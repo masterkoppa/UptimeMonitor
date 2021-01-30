@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 71,
+    "timeDay": 74,
     "timeWeek": 74,
     "timeMonth": 83,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-30": 0
+    }
   },
   {
     "name": "SmugMug Site",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 314,
-    "timeWeek": 318,
+    "time": 317,
+    "timeDay": 295,
+    "timeWeek": 319,
     "timeMonth": 320,
-    "timeYear": 318,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 209,
-    "timeWeek": 201,
-    "timeMonth": 217,
+    "timeDay": 208,
+    "timeWeek": 204,
+    "timeMonth": 218,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 212,
+    "time": 224,
+    "timeDay": 211,
     "timeWeek": 210,
     "timeMonth": 226,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -83,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 142,
-    "timeWeek": 156,
-    "timeMonth": 149,
+    "timeDay": 148,
+    "timeWeek": 157,
+    "timeMonth": 150,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 198,
-    "timeWeek": 194,
-    "timeMonth": 184,
-    "timeYear": 181,
+    "time": 180,
+    "timeDay": 171,
+    "timeWeek": 193,
+    "timeMonth": 185,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 270,
-    "timeWeek": 301,
+    "time": 301,
+    "timeDay": 283,
+    "timeWeek": 300,
     "timeMonth": 304,
-    "timeYear": 302,
+    "timeYear": 301,
     "dailyMinutesDown": {}
   }
 ]
