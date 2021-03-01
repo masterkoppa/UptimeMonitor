@@ -18,6 +18,8 @@ sites:
     url: https://beyondthetales.com
   - name: NightOwl
     url: https://codename-nightowl.com
+  - name: Matrix
+    url: https://matrix.aruiz.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
